@@ -1,7 +1,5 @@
 //Joel Asante
-//k753a978
-//Hw02
-//A Loan with Interest
+//A Loan Calculator with Interest
 
 #include <iostream>
 #include <iomanip>
